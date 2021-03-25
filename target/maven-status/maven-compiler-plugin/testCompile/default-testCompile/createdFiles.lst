@@ -1,6 +1,0 @@
-com\xevgnov\TestUtilities.class
-com\xevgnov\util\PropertyReaderTest.class
-com\xevgnov\validator\file\FileNameValidatorTest.class
-com\xevgnov\validator\game\RulesValidatorTest.class
-com\xevgnov\validator\file\FileFormatValidatorTest.class
-com\xevgnov\parser\SudokuReaderCsvTest.class
