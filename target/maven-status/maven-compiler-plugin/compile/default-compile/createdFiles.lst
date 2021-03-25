@@ -1,0 +1,15 @@
+com\xevgnov\exception\CsvFileParsingException.class
+com\xevgnov\validator\file\IFileFormatValidator.class
+com\xevgnov\validator\file\FileFormatValidator.class
+com\xevgnov\exception\MissingFileNameParameterException.class
+com\xevgnov\exception\SudokuValidationException.class
+com\xevgnov\validator\game\IRulesValidator.class
+com\xevgnov\facade\SudokuValidatorFacade.class
+com\xevgnov\validator\game\RulesValidator.class
+com\xevgnov\exception\SudokuFileFormatViolationException.class
+com\xevgnov\parser\SudokuReaderCsv.class
+com\xevgnov\util\PropertyReader.class
+com\xevgnov\SudokuValidatorApplication.class
+com\xevgnov\exception\SudokuRuleViolationException.class
+com\xevgnov\parser\ISudokuReader.class
+com\xevgnov\validator\file\FileNameValidator.class
